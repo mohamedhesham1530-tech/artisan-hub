@@ -1,17 +1,43 @@
-# engz_2
+# Artisan Hub — Local Services & Technicians Platform
 
-A new Flutter project.
+A Flutter mobile application that connects customers with nearby technicians and service providers.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User authentication
+- Browse available services
+- Technician profiles
+- Nearby technician discovery
+- Service booking
+- Order tracking
+- Favorites
+- Notifications
+- User profile
+- Technician profiles and details
+- Technician order management
+- Earnings tracking
+- Location-based services
+- Responsive and modern UI
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Provider
+- SharedPreferences
+- Geolocator
+- OpenStreetMap
+- Image Picker
+- REST APIs
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Architecture
+
+The application follows a feature-based architecture that separates major application features into independent modules, making the codebase easier to maintain and extend.
+
+## Screenshots
+
+https://drive.google.com/drive/folders/1M70uX3UXOBPsce8G4_sRW8oFjaf7nSDW?usp=drive_link
+**Mohamed Hesham**
+
+[LinkedIn](https://www.linkedin.com/in/mohamed-hesham-600794372) ·
+[Portfolio](https://mohamedhesham1530.getportify.com)
