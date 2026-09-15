@@ -37,7 +37,9 @@ The application follows a feature-based architecture that separates major applic
 ## Screenshots
 
 https://drive.google.com/drive/folders/1M70uX3UXOBPsce8G4_sRW8oFjaf7nSDW?usp=drive_link
-**Mohamed Hesham**
 
+## Author
+
+**Mohamed Hesham**
 [LinkedIn](https://www.linkedin.com/in/mohamed-hesham-600794372) ·
 [Portfolio](https://mohamedhesham1530.getportify.com)
